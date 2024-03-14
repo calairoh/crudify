@@ -1,0 +1,25 @@
+{
+  "name": "paginator",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap run ./tests/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calairoh/paginator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calairoh/paginator/issues"
+  },
+  "homepage": "https://github.com/calairoh/paginator#readme",
+  "devDependencies": {
+    "tap": "^18.7.1"
+  },
+  "dependencies": {
+    "split2": "^4.2.0"
+  }
+}
